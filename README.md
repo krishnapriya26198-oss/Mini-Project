@@ -2,13 +2,13 @@
 # 👥 Employee Data Analysis Dashboard | Excel & Power BI
 https://www.kaggle.com/datasets/desolution01/messy-employee-dataset/code
 
-## 📌 Project Overview
+ Project Overview
 
 This project focuses on analyzing employee data using Microsoft Excel and Power BI to gain meaningful insights into workforce demographics, employee distribution, and organizational trends.
 
 The project involves cleaning and preprocessing raw employee data using Excel, followed by developing an interactive Power BI dashboard to visualize key HR metrics and support data-driven decision-making.
 
-## 🎯 Project Objectives
+Project Objectives
 
 - Clean and transform raw employee data using Microsoft Excel.
 - Identify and remove duplicate employee records.
@@ -19,23 +19,21 @@ The project involves cleaning and preprocessing raw employee data using Excel, f
 - Build an interactive HR analytics dashboard using Power BI.
 - Identify workforce trends and generate meaningful insights.
 
-## 🛠️ Tools & Technologies
+  Tools & Technologies
 
 | Tool | Purpose |
-|---|---|
 | Microsoft Excel | Data cleaning and preprocessing |
 | Power BI | Interactive dashboard development |
 | Power Query | Data transformation |
 | Pivot Tables | Data summarization |
-| DAX | Calculated measures and KPIs (if applicable) |
 
-## 🔄 Project Workflow
+ Project Workflow
 
-### 1. Data Cleaning & Preprocessing – Excel
+ 1. Data Cleaning & Preprocessing – Excel
 
 Performed data preparation and cleaning to ensure the employee dataset was accurate and consistent.
 
-**Tasks performed:**
+Tasks performed:
 - Removed duplicate employee records.
 - Identified and handled missing values.
 - Standardized employee-related data formats.
@@ -44,29 +42,29 @@ Performed data preparation and cleaning to ensure the employee dataset was accur
 - Applied filtering and sorting.
 - Created Pivot Tables for employee data summarization.
 
-### 2. Data Visualization – Power BI
+2. Data Visualization – Power BI
 
 Imported the cleaned employee dataset into Power BI and developed an interactive HR analytics dashboard.
 
-**Dashboard Components:**
-- Employee Count – Total number of employees.
-- Gender Distribution – Employee distribution by gender.
-- Department Analysis – Number of employees in each department.
-- Age Distribution – Analysis of employee age groups.
-- Job Role Analysis – Employee distribution across job roles.
-- Salary Analysis – Salary distribution and comparisons, if available.
-- Interactive Slicers – Filters for exploring employee data.
-- KPI Cards – Key workforce metrics.
+Dashboard Components:
+ Employee Count – Total number of employees.
+Active Employee Card
+Employee Distribution by Age
+Average Salary by Age
+Average Salary
+Employee Count by Region
+Average Salary by Region
+Employee Age vs Salary Analysis
+Average Employee Age
+Employee Distribution by Employment Status
+Employee Distribution by Performance Rating
+Employee Status
 
-*Note: Dashboard components depend on the columns available in the dataset.*
 
-## 📊 Dashboard Preview
+ Dashboard Preview
+[Employee Analysis Dashboard]
 
-![Employee Analysis Dashboard]
-
-*Add your actual Power BI dashboard screenshot here.*
-
-## 🔍 Key Insights
+ Key Insights
 
 The dashboard helps explore:
 
@@ -77,18 +75,17 @@ The dashboard helps explore:
 - Job role distribution.
 - Salary patterns and comparisons, where available.
 
-## 💡 Project Outcome
+ Project Outcome
 
 Successfully transformed raw employee data into a structured and analysis-ready dataset using Microsoft Excel and developed an interactive Power BI dashboard to visualize workforce metrics.
 
 This project demonstrates practical skills in data cleaning, data transformation, data analysis, dashboard development, and business intelligence.
 
-## 🚀 Skills Demonstrated
+ Skills Demonstrated
 
 - Microsoft Excel
 - Data Cleaning & Preprocessing
 - Data Transformation
-- Exploratory Data Analysis (EDA)
 - Pivot Tables
 - Microsoft Power BI
 - Data Visualization
