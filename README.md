@@ -96,7 +96,3 @@ This project demonstrates practical skills in data cleaning, data transformation
 - DAX (if applicable)
 - HR Analytics
 - Business Intelligence
-
-Aspiring Data Analyst | Excel | Power BI | Data Analytics
-
-⭐ If you find this project useful, consider giving this repository a star!
